@@ -1,2 +1,0 @@
-private 私有 
-public 共有
